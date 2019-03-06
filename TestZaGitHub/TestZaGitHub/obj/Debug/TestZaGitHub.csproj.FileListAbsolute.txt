@@ -1,0 +1,7 @@
+D:\RPA\RPAIzredni\TestZaGitHub\TestZaGitHub\bin\Debug\TestZaGitHub.exe.config
+D:\RPA\RPAIzredni\TestZaGitHub\TestZaGitHub\bin\Debug\TestZaGitHub.exe
+D:\RPA\RPAIzredni\TestZaGitHub\TestZaGitHub\bin\Debug\TestZaGitHub.pdb
+D:\RPA\RPAIzredni\TestZaGitHub\TestZaGitHub\obj\Debug\TestZaGitHub.csprojAssemblyReference.cache
+D:\RPA\RPAIzredni\TestZaGitHub\TestZaGitHub\obj\Debug\TestZaGitHub.csproj.CoreCompileInputs.cache
+D:\RPA\RPAIzredni\TestZaGitHub\TestZaGitHub\obj\Debug\TestZaGitHub.exe
+D:\RPA\RPAIzredni\TestZaGitHub\TestZaGitHub\obj\Debug\TestZaGitHub.pdb
