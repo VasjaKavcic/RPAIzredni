@@ -12,6 +12,7 @@ namespace TestZaGitHub
         {
             Console.WriteLine("Pozdravljen GitHub");
             Console.WriteLine("Rad imam c#");
+			Console.WriteLine("Rad imam c#");
             Console.ReadLine();
         }
     }
