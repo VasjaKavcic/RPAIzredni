@@ -11,6 +11,7 @@ namespace TestZaGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdravljen GitHub");
+	    Console.WeiteLine("Dodano za Git");
             Console.ReadLine();
         }
     }
